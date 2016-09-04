@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapBox</string>
+    <string name="accessToken">pk.eyJ1Ijoibmlrenp6biIsImEiOiJjaXJ1d2djdDYwMGdhaGtuaDFvdGc4YmdwIn0.MJqSjrgIXF4peM3PTVA8jA</string>
+    <string name="input">Добавление маркера</string>
+    <string name="input_content">Введите имя и описание</string>
+    <string name="input_hint1">Имя</string>
+    <string name="input_hint2">Описание</string>
+
+    <string name="input_prefill">Егор</string>
+</resources>
